@@ -315,9 +315,8 @@
 }
 
 .top_entries {
-    background: url(../images/entries_bg.png) no-repeat;
+    background: url(../images/entries_bg_new.png) no-repeat;
     height: 65px;
-    background-size: 100% 100%;
     border-bottom: 2px solid #2fc1da;
 }
 
